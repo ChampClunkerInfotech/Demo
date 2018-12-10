@@ -3,4 +3,4 @@ echo "HELLO GIT"
 hostname -f
 ip a
 route -n
-./demo2.sh
+sh ./demo2.sh
