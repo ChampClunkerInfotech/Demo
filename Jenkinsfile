@@ -5,4 +5,6 @@ node{
          echo "Build Job"
      stage "Test"
          echo "Test Job"
+     stage "Logout"
+         echo "Logout Job"
      }
